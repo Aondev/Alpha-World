@@ -1,2 +1,2 @@
 # Alpha-World
-Welcome to Alpha
+Welcome to Alpha, or Beta
